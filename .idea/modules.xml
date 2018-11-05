@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/api/api.iml" filepath="$PROJECT_DIR$/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/controller.server.rest/controller.server.rest.iml" filepath="$PROJECT_DIR$/api/controller.server.rest/controller.server.rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/domain.main.module/domain.main.module.iml" filepath="$PROJECT_DIR$/api/domain.main.module/domain.main.module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/infrastructure.data.postgresql/infrastructure.data.postgresql.iml" filepath="$PROJECT_DIR$/api/infrastructure.data.postgresql/infrastructure.data.postgresql.iml" />
+    </modules>
+  </component>
+</project>
